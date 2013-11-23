@@ -1,0 +1,64 @@
+body{margin:0; padding:0; background:#f2f2f2;}
+#wrapper{width:1200px; margin:0 auto; background:#fff;}
+#header{background:#fff url(header-bg.jpg); padding:20px;}
+
+#page-wrapper{border-left:1px solid #ccc; border-bottom:1px solid #ccc;border-right:1px solid #ccc; font-family:arial;}
+#sidebar{float:left; width: 250px;}
+#sidebar ul.links{margin:0; padding:0;}
+#sidebar ul.links li{list-style-type:none; padding:10px; border-bottom:1px solid #ccc;}
+#sidebar ul.links li a{font-family:arial,tahoma,serif; text-decoration:none; color:#0056a5; }
+
+#content{float:left; width: 907px; padding:20px; border-left:1px solid #ccc; }
+#content .content-header{border-bottom:2px solid #ccc; font-size:40px; color:#333; font-weight:bold;}
+.clear{clear:both;}
+#footer{min-height:50px; padding:10px; text-align:center; background:#f2f2f2;}
+#footer p{font-family:arial;}
+.field-item ul{margin:0; padding:0px 50px;}
+.field-item ul li{padding:5px;}
+/*
+.region-header {clear: both; float: none; margin: 0;} 
+.region-header .block-menu {font-size: 1em; width: auto; margin: 0; border: 0;} 
+.region-header .block-menu li a {border-bottom: 0;}
+
+#main-menu-links a {
+  float: none;
+}
+#main-menu-links ul {
+  padding: 0;
+  position: absolute;
+  left: -1000px;
+}
+#main-menu-links li:hover ul {
+  left: auto;
+  z-index: 1000;
+}
+#main-menu-links ul li {
+  float: none;
+  margin: 0;
+  padding: 0;
+}
+#main-menu-links ul li:hover a {
+  background: rgba(240, 240, 240, 1);
+}
+#main-menu-links ul a {
+  background: #ccc;
+  background: rgba(200, 200, 200, 0.7);
+  width: 150px;
+  -khtml-border-radius-topleft: 0px;
+  -khtml-border-radius-topright: 0px;
+  -moz-border-radius-topleft: 0px;
+  -moz-border-radius-topright: 0px;
+  -webkit-border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+#main-menu-links li.active-trail a {
+  background: #ccc;
+  background: rgba(200, 200, 200, 0.7);
+}
+#main-menu-links li.active-trail>a {
+  background: #ffffff;
+}
+*/
